@@ -40,7 +40,7 @@ iframe#tela {
 }
 
 section#redes-sociais {
-    text-align: center;
+    text-align: right;
 }
 
 section#redes-sociais img {
@@ -56,10 +56,4 @@ section#redes-sociais img:hover {
     transform: translate(-5px, -5px);
     box-shadow: 5px 5px 10px black;
     transition: transform 0.3s;
-}
-
-@media screen and (max-width:768px) {
-    section#telefone {
-        top: 58%;
-    }
 }
