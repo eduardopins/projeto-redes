@@ -59,21 +59,7 @@ section#redes-sociais img:hover {
 }
 
 @media screen and (max-width:768px) {
-    iframe#tela {
-        position: relative;
-        top: 79px;
-        left: 21px;
-        width: 269.5px;
-        height: 473.5px;
-    }
-
     section#telefone {
-        height: 627px;
-        width: 311px;
-        position: absolute;
         top: 58%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        background: url('../image/frame-iphone.png') no-repeat;
     }
 }
