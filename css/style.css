@@ -69,6 +69,11 @@ section#redes-sociais img:hover {
         background: url('../image/frame-iphone-pq.png') no-repeat;
     }
 
+    * {
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+
     iframe#tela {
         position: relative;
         top: 62px;
@@ -76,9 +81,9 @@ section#redes-sociais img:hover {
         width: 203.5px;
         height: 360px;
     }
-    
+
     section#redes-sociais {
         text-align: center;
-        padding-top: 30px;
+        padding-top: 5%;
     }
 }
